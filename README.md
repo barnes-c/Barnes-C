@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![counter](https://en1ofmscetq0zbx.m.pipedream.net)
+![counter](https://barnes.biz)
 
 <!--
 **Barnes-C/Barnes-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
